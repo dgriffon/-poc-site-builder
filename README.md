@@ -1,8 +1,8 @@
-##Site builder
+# Site builder
 
 This templates set is used for quick integration. Allowing to load assets (css / js) from /files of the site. 
 
-#Usage
+## Usage
 
 Create a site with this templates set
 Use the `htmlComponent` to target a fragment of html file that has been previously uploaded to your site.
